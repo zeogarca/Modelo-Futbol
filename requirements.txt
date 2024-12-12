@@ -1,4 +1,4 @@
-gym==0.26.2
+gym==0.21
 stable-baselines3==1.7.0
 numpy==1.24.3
 matplotlib==3.7.2
